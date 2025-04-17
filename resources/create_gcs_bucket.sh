@@ -1,0 +1,1 @@
+gcloud storage buckets create gs://satvik-storage-bucket --location=us-central1

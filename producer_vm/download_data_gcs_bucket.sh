@@ -1,0 +1,1 @@
+gsutil cp -r gs://satvik-storage-bucket/NSE_Stocks_Data /home/chandrakarsatvik/
